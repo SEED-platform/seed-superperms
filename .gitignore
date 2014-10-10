@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.pyc
+superperms.egg-info/dependency_links.txt
+superperms.egg-info/PKG-INFO
+superperms.egg-info/requires.txt
+superperms.egg-info/SOURCES.txt
+superperms.egg-info/top_level.txt
