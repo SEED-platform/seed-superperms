@@ -1,5 +1,6 @@
 seed-superperms
 ==========
+Flexible user permissions for the [SEED Platform](http://www.github.com/seed-platform/seed).
 
 ## Install
 
