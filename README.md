@@ -1,22 +1,14 @@
-![CircleCI Status][]
-
-[CircleCI Status]: https://circleci.com/gh/buildingenergy/superperms.png?circle-token=25e8d7e5568a06a231161d4bffe8918f8ebb4902
-
-
-superperms
+seed-superperms
 ==========
-![HappyTrees](https://dl.dropboxusercontent.com/u/5586906/images/HappyLittleTrees.jpg)
-
-
 
 ## Install
 
 install superperms
-
+<!---
 ```py
 pip install superperms
 ```
-
+--->
 add superperms to your `INSTALLED_APPS`
 
 ```py
@@ -64,7 +56,7 @@ def protected_view(request):
 clone the repo and install requirements
 
 ```console
-$ git clone git@github.com:buildingenergy/superperms.git
+$ git clone git@github.com:seed-platform/seed-superperms.git
 $ mkvirtualenv superperms
 (superperms)$ cd superperms
 (superperms)$ pip install -r requirements.txt
